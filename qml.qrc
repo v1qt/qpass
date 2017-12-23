@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/Login.qml</file>
+        <file>qml/Profile.qml</file>
+        <file>images/qpass.png</file>
+        <file>images/icon.png</file>
+        <file>images/on.png</file>
+        <file>qml/Q_Base.qml</file>
+        <file>images/off.png</file>
+        <file>images/pingu.png</file>
+        <file>qml/PWListModel.qml</file>
+        <file>qml/PWListView.qml</file>
+        <file>qml/PasswordsView.qml</file>
+        <file>images/Xing.png</file>
+        <file>images/Steam.png</file>
+        <file>images/Git.png</file>
+        <file>images/dropbox.png</file>
+        <file>db/Qpass</file>
+    </qresource>
+</RCC>
